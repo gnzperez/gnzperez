@@ -34,16 +34,11 @@ Proyecto fullstack junto a un amigo, usando herramientas modernas para controlar
 
 - GitHub: [github.com/gnzperez](https://github.com/gnzperez)
 - Email: gonzalonperez98@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gonzalonicolasperez/
 
 ---
 
 <p align="center">💡 Siempre aprendiendo algo nuevo. ¡Gracias por visitar mi perfil!</p>
-
-    <h2>Contacto</h2>
-    <p>📫 Puedes contactarme por GitHub: <a href="https://github.com/gnzperez" target="_blank">gnzperez</a></p>
-    <p>✉️ Email: gonzalonperez98@gmail.com</p>
-  </section>
-
   
 </body>
 </html>

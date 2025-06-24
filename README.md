@@ -1,100 +1,44 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mi Portafolio - Gonzalo Perez</title>
-  <style>
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0f0f0f;
-      color: #ffffff;
-    }
+<h1 align="center">👋 Hola, soy Gonzalo Perez</h1>
+<p align="center">💻 Programador en formación | 📱 Apasionado por la tecnología</p>
 
-    header {
-      background-color: #1f1f1f;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 2px solid #00ffcc;
-    }
+---
 
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
+### 📌 Sobre mí
 
-    header p {
-      color: #aaaaaa;
-      margin: 5px 0 0;
-    }
+Soy un desarrollador principiante con ganas de aprender y crear cosas útiles.  
+Actualmente estoy explorando desarrollo **web fullstack** y **aplicaciones móviles con Android (Kotlin + Jetpack Compose)**.  
+Me interesa practicar con proyectos reales y trabajar en equipo para crecer como programador.
 
-    .section {
-      padding: 40px 20px;
-      max-width: 900px;
-      margin: auto;
-    }
+---
 
-    .section h2 {
-      color: #00ffcc;
-      border-bottom: 1px solid #00ffcc;
-      padding-bottom: 5px;
-    }
+### 🚀 Proyectos en los que estoy trabajando
 
-    .project {
-      margin-bottom: 20px;
-    }
+#### 🧮 Organizador de Torneos (App móvil)
+Aplicación en **Kotlin** + **Jetpack Compose** + **Firebase** para gestionar torneos, equipos y resultados deportivos.
 
-    .project-title {
-      font-size: 1.3em;
-      color: #ffffff;
-    }
+#### 📦 Control de Stock (Web)
+Proyecto fullstack junto a un amigo, usando herramientas modernas para controlar productos, movimientos e inventario.
 
-    .project-desc {
-      color: #bbbbbb;
-    }
+---
 
-    footer {
-      text-align: center;
-      padding: 20px;
-      background-color: #1f1f1f;
-      border-top: 1px solid #333;
-      font-size: 0.9em;
-      color: #777;
-    }
+### 🛠️ Tecnologías que estoy aprendiendo
 
-    a {
-      color: #00ffcc;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>Gonzalo</h1>
-    <p>Programador en formación | Apasionado por la tecnología</p>
-  </header>
+- Frontend: `HTML`, `CSS`, `JavaScript`
+- Backend: `Node.js` (próximamente)
+- Mobile: `Kotlin`, `Jetpack Compose`, `Firebase`
+- Herramientas: `Visual Studio Code`, `Git`, `GitHub`
 
-  <section class="section">
-    <h2>Sobre mí</h2>
-    <p>
-      Hola, soy un desarrollador principiante aprendiendo desarrollo web, móvil y bases de datos. Me interesa construir proyectos reales para mejorar mis habilidades y colaborar con otros programadores.
-    </p>
-  </section>
+---
 
-  <section class="section">
-    <h2>Proyectos</h2>
-    <div class="project">
-      <div class="project-title">🧮 Organizador de Torneos (App móvil)</div>
-      <div class="project-desc">App en Kotlin + Jetpack Compose + Firebase para gestionar torneos, equipos y resultados.</div>
-    </div>
-    <div class="project">
-      <div class="project-title">📦 Control de Stock (Web)</div>
-      <div class="project-desc">App fullstack en desarrollo junto a un amigo para gestionar productos y movimientos de inventario.</div>
-    </div>
-  </section>
+### 📫 Cómo contactarme
 
-  <section class="section">
+- GitHub: [github.com/gnzperez](https://github.com/gnzperez)
+- Email: gonzalonperez98@gmail.com
+
+---
+
+<p align="center">💡 Siempre aprendiendo algo nuevo. ¡Gracias por visitar mi perfil!</p>
+
     <h2>Contacto</h2>
     <p>📫 Puedes contactarme por GitHub: <a href="https://github.com/gnzperez" target="_blank">gnzperez</a></p>
     <p>✉️ Email: gonzalonperez98@gmail.com</p>
